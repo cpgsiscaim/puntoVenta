@@ -118,6 +118,8 @@
                     </g:each>
                 </ul>
             </div>
+
+            <a href="#" class="btn btn-primary">Prueba de bootstrap</a>
         </div>
     </body>
 </html>

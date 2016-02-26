@@ -8,6 +8,8 @@
         <asset:stylesheet src="application.css"/>
         <asset:javascript src="application.js"/>
 
+        <asset:stylesheet src="third-party/bower_components/bootstrap/dist/css/bootstrap.css"/>
+
         <g:layoutHead/>
     </head>
     <body>
