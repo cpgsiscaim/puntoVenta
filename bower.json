@@ -1,0 +1,16 @@
+{
+  "name": "puntoVenta",
+  "homepage": "https://github.com/cpgsiscaim/puntoVenta",
+  "description": "App punto de venta online",
+  "authors": [
+    "temocpalma"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
