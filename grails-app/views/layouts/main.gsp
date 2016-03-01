@@ -11,7 +11,7 @@
         <asset:stylesheet src="third-party/bower_components/bootstrap/dist/css/bootstrap.css"/>
 
         <!-- datepicker -->
-        <asset:javascript src="third-party/bower_components/jquery/jquery.min.js"/>
+        <asset:javascript src="third-party/bower_components/jquery/dist/jquery.min.js"/>
         <asset:javascript src="third-party/bower_components/moment/min/moment.min.js"/>
         <asset:javascript src="third-party/bower_components/bootstrap/dist/js/bootstrap.min.js"/>
         <asset:javascript src="third-party/bower_components/eonasdan-bootstrap-datetimepicker/build/js/bootstrap-datetimepicker.min.js"/>
