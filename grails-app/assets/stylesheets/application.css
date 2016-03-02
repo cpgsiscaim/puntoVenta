@@ -11,3 +11,10 @@
 *= require mobile
 *= require_self
 */
+
+
+/* imagen de fondo del jumbotron de inicio*/
+div .home-bg {
+  background-image: url("/images/fondo.jpg");
+  background-size: 100% auto;
+}

@@ -1,0 +1,6 @@
+/* imagen de fondo del jumbotron de inicio*/
+div.home-bg {
+  background-image: url("../images/fondo03.jpg");
+  background-size: 100% auto;
+}
+
