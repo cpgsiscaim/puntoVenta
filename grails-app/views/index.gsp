@@ -2,7 +2,6 @@
 <html lang="es">
   <head>
     <title>genericPOS</title>
-        <asset:javascript src="application.js"/>
 
         <asset:stylesheet src="third-party/bower_components/bootstrap/dist/css/bootstrap.css"/>
         <asset:stylesheet src="home.css"/>
